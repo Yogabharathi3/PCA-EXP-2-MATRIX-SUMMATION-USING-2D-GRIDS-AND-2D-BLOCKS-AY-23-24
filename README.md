@@ -3,7 +3,7 @@
 ### NAME: Yogabharathi S
 ### REGISTER NO: 212222230179
 ### EX. NO: 02
-### DATE: 
+### DATE: 13.09.2024
 
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
 i.  Use the file sumMatrixOnGPU-2D-grid-2D-block.cu
@@ -15,9 +15,6 @@ To perform  matrix summation with a 2D grid and 2D blocks and adapting it to int
 ## EQUIPMENTS REQUIRED:
 Hardware – PCs with NVIDIA GPU & CUDA NVCC
 Google Colab with NVCC Compiler
-
-
-
 
 ## PROCEDURE:
 
